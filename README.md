@@ -4,13 +4,13 @@ Welcome to **TypeScript ASMR: Beginner Concepts**! This repository is designed t
 
 ---
 
-`## Table of Contents
+## Table of Contents
 
 ### Beginner Exercises
 1. **Basic Types and Variables**
 2. **Array and Tuple Types**
 3. **Type Aliases**
-4. **Enum Types**`
+4. **Enum Types**
 5. **Function Type Signatures**
 6. **Object Types**
 7. **Union Types**
